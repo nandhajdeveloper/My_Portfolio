@@ -500,6 +500,8 @@ body{
 .home{
     padding-top: 800px;
     background-image: url(./about.png);
+    height: 200px;
+    width: auto;
 }
 .about{
     padding-top: 250px;
